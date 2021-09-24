@@ -1,6 +1,6 @@
 # Pedestrian-recognition-for-patrol-robots
 
-基于Yolov5 目标检测算法及ArcFace 损失函数的人脸识别算法
+基于Yolov5 目标检测算法及ArcFace 损失函数的人脸识别算法，相关权重未上传。
 
 
 
